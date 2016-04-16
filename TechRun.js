@@ -5,6 +5,7 @@
 var hrr16 = {
 	name: 'Daniel Ramos',
 <<<<<<< HEAD
+<<<<<<< HEAD
 	name: 'Eric Smith',
   name: 'Nick Randall',
   name: 'Neekon Etemad',
@@ -20,6 +21,9 @@ var hrr16 = {
 
 
 }
+=======
+}
+>>>>>>> 177c822729fc08a5c4ac2d2f02474eeff75ece34
 =======
 }
 >>>>>>> 177c822729fc08a5c4ac2d2f02474eeff75ece34
