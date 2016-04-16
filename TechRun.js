@@ -4,10 +4,11 @@
 
 var hrr16 = {
 	name: 'Daniel Ramos',
+<<<<<<< HEAD
 	name: 'Eric Smith',
   name: 'Nick Randall',
   name: 'Neekon Etemad',
-  name: 'Mike Cruz',
+  name: 'Mike Cruz
   nam   '  son',
   name: 'Eduard Bardaji',
   name: 'Josh Summerhays',
@@ -19,3 +20,6 @@ var hrr16 = {
 
 
 }
+=======
+}
+>>>>>>> 177c822729fc08a5c4ac2d2f02474eeff75ece34
