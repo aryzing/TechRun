@@ -13,7 +13,7 @@ var hrr16 = {
   name: 'Josh Summerhays',
   name: 'Timothy Woo',
   name: 'Chris Weaver'  ,
-  name  :'Leo'
+  name: 'Leo',
   name: 'I can type now - Gabe'
 
 
